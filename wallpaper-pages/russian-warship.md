@@ -6,3 +6,5 @@ permalink: /russian-warship
 
 
 # {{ page.title }}
+
+[Home](/) [Donate](/donate)

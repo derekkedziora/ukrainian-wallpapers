@@ -6,3 +6,5 @@ permalink: /f-putin
 
 
 # {{ page.title }}
+
+[Home](/) [Donate](/donate)

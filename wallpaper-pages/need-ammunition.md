@@ -6,3 +6,5 @@ permalink: /need-ammunition
 
 
 # {{ page.title }}
+
+[Home](/) [Donate](/donate)

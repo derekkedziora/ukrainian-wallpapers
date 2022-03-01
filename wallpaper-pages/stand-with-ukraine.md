@@ -6,3 +6,5 @@ permalink: /stand-with-ukraine
 
 
 # {{ page.title }}
+
+[Home](/) [Donate](/donate)
