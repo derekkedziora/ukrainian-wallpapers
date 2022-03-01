@@ -1,3 +1,8 @@
+---
+template: default
+---
+
+
 # Wallpapers for Ukraine 
 
 Our country, homes and very lives are under attack! Please help support the Ukrainians who are defending their country and those who have been forced from their homes. 
