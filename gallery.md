@@ -1,4 +1,0 @@
----
-layout: gallery
-permalink: /gallery
----
