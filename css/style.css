@@ -24,7 +24,6 @@ main {
 	margin: 5em auto;
 	width: 1400px;
 	max-width: 100%;
-	padding: 1em;
 }
 
 h1 {
@@ -42,6 +41,7 @@ p {
 .content {
 	width: 100%;
 	margin: 0 auto;
+	padding: 0 1em;
 	max-width: 600px;;
 }
 
