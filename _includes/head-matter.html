@@ -1,57 +1,27 @@
 <head>
+    
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}"/>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <meta name=viewport content="width=device-width, initial-scale=1">
-
+    <meta name="generator" content="Jekyll" />
 
     <link rel="icon" href="/static/favicon-3.png">
 
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:description" content="{{ page.description }}">
     <meta property="og:image" content=""/>
-    <meta name="twitter:image" content=""/>
-
-
-
-
-<!--
-
-        {% if page.no-index or page.categories contains "rss-club" %}<meta name="robots" content="noindex" />{% endif %}
-    <meta charset="UTF-8">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel='stylesheet' type='text/css' href='/css/main.css'>
-    {% if page.syntax %}<link rel='stylesheet' type='text/css' href='/css/code.css'>{% endif %}
-    <meta name="description" content="{% if page.description %}{{ page.description }}
-    {% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Derek Kedziora">
-    <link rel="canonical" href="{% if page.canonical %}{{ site.url }}{{ page.canonical }}{% else %}{{ page.url | absolute_url }}{% endif %}">
-    <meta name="generator" content="Jekyll" />
-    
-     **OG metadata
-
-
-    <meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:image" content="{% if page.social-media-image %}{{ page.social-media-image}}{% else %}https://res.cloudinary.com/derekkedziora/image/upload/v1622372311/Social%20Media%20Pictures/desert-picture-1080x608_on9hpv.jpg{% endif %}"/>
-    <meta property="og:locale" content="{% if page.post-lang %}{{page.post-lang}}{% else %}en_US{% endif %}">
-    <meta property="og:type" content="{% if page.og-type %}{{page.og-type}}{% else %}website{% endif %}"/>
-    <meta property="og:url" content="{{ page.url | absolute_url }}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
     <meta property="og:site_name" content="{{ site.title }}">
 
-    ** Twitter Card 
-
-    <meta name="twitter:card" content="summary"/>
-    <meta name="twitter:creator" content="@derekkedziora">
-    <meta name="twitter:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}"/>
-    <meta name="twitter:description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}"/>
-    <meta property="og:url" content="{{ page.url | absolute_url }}" />
-    <meta name="twitter:image" content="https://res.cloudinary.com/derekkedziora/image/upload/v1622367103/Social%20Media%20Pictures/desert-picture-540_namxrn.png"/>
-    <meta name="twitter:dnt" content="on">    
-
-  --> 
 
 
+    <meta name="twitter:image" content=""/>
+    <meta name="twitter:card" content="{{ page.description }}"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta name="twitter:image" content=""/>
 
 </head>
