@@ -1,5 +1,5 @@
 ---
-title: Wallpapers for Ukraine&nbsp;🇺🇦🌻
+title: Wallpapers for Ukraine 🇺🇦🌻
 description: Support the Ukrainian people and army as they fight to defend their country
 layout: default
 ---
