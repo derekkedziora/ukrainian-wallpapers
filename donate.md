@@ -5,4 +5,4 @@ permalink: /donate
 
 # Donate to support Ukraine
 
-Coming soon! test
+Coming soon! 
