@@ -1,0 +1,5 @@
+---
+permalink: /donate
+---
+
+Coming soon! 
