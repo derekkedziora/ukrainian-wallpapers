@@ -37,14 +37,14 @@ p {
 	max-width: 600px;;
 }
 
-.ta-pictures {
+.gallery {
 	display: flex;
 	flex-wrap:  wrap;
 	justify-content: center;
 	gap: 10px 10px;
 }
 
-.ta-pictures img {
+.gallery img {
 	width: 300px;
 	max-width: 100%;
 }
