@@ -1,10 +1,6 @@
 ---
 title: Russian Warship
+wallpaper-page-nav: true
 layout: default
 permalink: /russian-warship
 ---
-
-
-# {{ page.title }}
-
-[Home](/) [Donate](/donate)

@@ -1,30 +1,37 @@
 :root {
 	--background-color: white;
-	--text-color: black; 
+	--text-color:  hsl(0, 0%, 10%);
+	--link-color: hsl(240, 1%, 35%);
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--background-color: black;
-		--text-color: white; 
+		--background-color: hsl(200, 3%, 12%);
+		--text-color: hsl(0, 0%, 85%);
+		--link-color: hsl(193, 85%, 50%);
 	}
 }
 
 html {
 	background-color: var(--background-color);
 	color: var(--text-color);
-	font-family: Hevlvetica Neue, Arial, sans-serif;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
 	margin: 0 1em;
 }
 
 main {
-	margin: 1em auto;
+	margin: 5em auto;
 	width: 1400px;
 	max-width: 100%;
 }
 
 h1 {
 	font-size: 1.875rem;
+}
+
+nav {
+	margin-top: -1em;
 }
 
 p {
@@ -47,4 +54,14 @@ p {
 .gallery img {
 	width: 300px;
 	max-width: 100%;
+}
+
+.page-thumb img {
+	width: 100%;
+	max-width: 300px;
+	margin-top: 2em;
+}
+
+a, a:visited {
+	color:  var(--link-color);
 }

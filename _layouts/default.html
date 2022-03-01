@@ -6,9 +6,12 @@
 <body>
     <main>
 <section class="content">
+<h1>{{ page.title }}</h1>
+{% if page.wallpaper-page-nav %}
+{% include wallpaper-page-nav.html %}
+{% endif %}
 
   {{ content }}
-
 
 </section>
 </main>

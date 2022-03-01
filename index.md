@@ -1,11 +1,8 @@
 ---
-title: Wallpapers for Ukraine 
+title: Wallpapers for Ukraine&nbsp;🇺🇦🌻
 description: Support the Ukrainian people and army as they fight to defend their country
 layout: default
 ---
-
-
-# Wallpapers for Ukraine 🇺🇦🌻
 
 Our country, homes and very lives are under attack! Please help support the Ukrainians who are defending their country and those who have been forced from their homes. 
 

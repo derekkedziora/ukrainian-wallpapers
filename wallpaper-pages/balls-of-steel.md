@@ -1,16 +1,12 @@
 ---
 title: Balls of Steel
+wallpaper-page-nav: true
 layout: default
 permalink: /balls-of-steel
 ---
 
 
-# {{ page.title }}
-
-[Home](/) [Donate](/donate)
-
-
-<div class="gallery"><a href="/balls-of-steel"><img src="static/gallery/balls-of-steel-thumb.jpeg"></a></div>
+<div class="page-thumb"><a href="/balls-of-steel"><img src="static/gallery/balls-of-steel-thumb.jpeg"></a></div>
 
 
 <a href="/static/balls-of-steel/balls-of-steel-desktop.png">Desktop</a>
