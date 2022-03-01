@@ -3,7 +3,6 @@ layout: default
 permalink: /donate
 ---
 
+# Donate to support Ukraine
 
-# Donate to support Ukraine 
-
-Coming soon! 
+Coming soon! test
