@@ -19,6 +19,14 @@ permalink: /balls-of-steel
 
 <a href="/static/balls-of-steel/balls-of-steel-desktop-3.png">Desktop 3</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop-1.png">Desktop 1</a>
+<a href="/static/balls-of-steel/balls-of-steel-mobile-oled.png">Mobile OLED</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop-1.png">Desktop 1</a>
+<a href="/static/balls-of-steel/balls-of-steel-mobile-oled-1.png">Mobile OLED 1</a>
+
+<a href="/static/balls-of-steel/balls-of-steel-zoom.png">Zoom</a>
+
+<a href="/static/balls-of-steel/balls-of-steel-zoom-1.png">Zoom 1</a>
+
+<a href="/static/balls-of-steel/balls-of-steel-zoom-2.png">Zoom 2</a>
+
+<a href="/static/balls-of-steel/balls-of-steel-zoom-3.png">Zoom 3</a>
