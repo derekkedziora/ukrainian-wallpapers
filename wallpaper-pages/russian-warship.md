@@ -6,7 +6,7 @@ layout: default
 permalink: /russian-warship
 ---
 
-<div class="page-thumb"><img src="static/gallery/russian-warship-thumb.PNG"></div>
+<div class="page-thumb"><img src="static/gallery/russian-warship-thumb.jpeg"></div>
 
 <a href="/static/russian-warship/Russian-Warship-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 

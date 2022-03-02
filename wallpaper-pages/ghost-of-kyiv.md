@@ -6,7 +6,7 @@ layout: default
 permalink: /ghost-of-kyiv
 ---
 
-<div class="page-thumb"><img src="static/gallery/ghost-of-kyiv-thumb.PNG"></div>
+<div class="page-thumb"><img src="static/gallery/ghost-of-kyiv-thumb.jpeg"></div>
 
 <a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 

@@ -6,7 +6,7 @@ layout: default
 permalink: /need-ammunition
 ---
 
-<div class="page-thumb"><img src="static/gallery/need-ammunitiion-thumb.PNG"></div>
+<div class="page-thumb"><img src="static/gallery/need-ammunitiion-thumb.jpeg"></div>
 
 <a href="/static/need-ammunition/I-Need-Ammunition-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 

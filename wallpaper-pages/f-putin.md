@@ -6,7 +6,7 @@ layout: default
 permalink: /f-putin
 ---
 
-<div class="page-thumb"><img src="static/gallery/f-putin-thumb.PNG"></div>
+<div class="page-thumb"><img src="static/gallery/f-putin-thumb.jpeg"></div>
 
 <a href="/static/f-putin/F**k-Putin-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 
