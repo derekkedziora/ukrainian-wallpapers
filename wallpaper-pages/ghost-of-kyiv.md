@@ -15,14 +15,14 @@ permalink: /ghost-of-kyiv
 
 <a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Desktop-pc-light.png">PC Desktop (light)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-mobile-dark.png">Mobile (dark)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Mobile-dark.png">Mobile (dark)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-mobile-light.png">Mobile (light)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Mobile-light.png">Mobile (light)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-zoom-mac-dark.png">Zoom Mac (dark)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-zoom-mac-light.png">Zoom Mac (light)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-zoom-pc-dark.png">Zoom PC (dark)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-zoom-pc-light.png">Zoom PC (light)</a>
+<a href="/static/ghost-of-kyiv/Ghost-of-Kyiv-Zoom-pc-light.png">Zoom PC (light)</a>
