@@ -10,22 +10,22 @@ permalink: /balls-of-steel
 <div class="page-thumb"><img src="static/gallery/balls-of-steel-thumb.PNG"></div>
 
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop.png">Desktop</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop-1.png">Desktop 1</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-Desktop-mac-light.png">Mac Desktop (light)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop-2.png">Desktop 2</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-Desktop-pc-dark.png">PC Desktop (dark)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-desktop-3.png">Desktop 3</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-Desktop-pc-light.png">PC Desktop (light)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-mobile-oled.png">Mobile OLED</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-mobile-dark.png">Mobile (dark)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-mobile-oled-1.png">Mobile OLED 1</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-mobile-light.png">Mobile (light)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-zoom.png">Zoom</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-zoom-1.png">Zoom 1</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-zoom-2.png">Zoom 2</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/balls-of-steel/balls-of-steel-zoom-3.png">Zoom 3</a>
+<a href="/static/balls-of-steel/Balls-of-Steel-zoom-pc-light.png">Zoom PC (light)</a>
