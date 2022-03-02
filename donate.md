@@ -10,20 +10,34 @@ permalink: /donate
 
 Here’s how you can support either the Ukrainian Army or humanitarian efforts for those forced to flee from the war. 
 
-## The Ukrainian Army 
 
-Directly via the <a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">National Bank of Ukraine</a>, takes credit cards 
+## Army Support
 
-<a href="https://savelife.in.ua/en/donate/">Come back alive</a>, donate via bank transfer
+[National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+
+[Come Back Alive](http://comebackalive.in.ua/donate)
+
+[Army SOS](https://armysos.com.ua/en/help-the-army)
 
 
-## Humanitarian relief 
+## Humanitarian Support
 
-<a href="https://www.saintjavelin.com">Saint Javelin Stickers</a> helping Ukrainian children in need 
+[Saint Javelin](http://saintjavelin.com)
 
-<a href="https://donate.redcrossredcrescent.org/ua/donate/">Red Cross Ukraine Emergency Appeal</a>
+[The Red Cross](https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1)
 
-<a href="https://razomforukraine.org">Razom for Ukraine</a> supports civil society projects in Ukraine
+[Razom for Ukraine](https://razomforukraine.org)
 
-<a href="https://novaukraine.org">Nova Ukraine</a> supports humanitarian relief, accepts PayPal, credit cards and crypto 
+[Nova Ukraine](https://novaukraine.org)
 
+
+## Crypto Support
+
+[Unchain Ukraine](https://unchain.fund)
+
+
+## Other Options
+
+[Support Ukraine Now](http://supportukrainenow.org/)
+
+Enjoy the wallpapers 🌻
