@@ -1,1 +1,3 @@
+<p class="credits">Like this font? It’s made in Ukraine, and you can download it from <a href="https://fonts.google.com/specimen/Arsenal#about">Google Fonts</p>
+
 <p class="credits">Made with 💙💛 by <a href="https://www.instagram.com/mishkoala/">Mishko Lahoda</a>, <a href="https://www.instagram.com/andrew_sobolev/">Andrew Sobolev</a>, <a href="https://www.instagram.com/eugeneworonyuk/">Eugene Voroniuk</a>, <a href="https://www.instagram.com/sandraolz/">Oleksandra Bezsonova</a>, <a href="https://www.linkedin.com/in/andrew-shannon-us-ua/">Andrew Shannon</a> and <a href="https://derekkedziora.com">Derek Kedziora</a></p>
