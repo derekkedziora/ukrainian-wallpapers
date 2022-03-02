@@ -9,7 +9,6 @@ permalink: /balls-of-steel
 
 <div class="page-thumb"><img src="static/gallery/balls-of-steel-thumb.PNG"></div>
 
-
 <a href="/static/balls-of-steel/Balls-of-Steel-Desktop-mac-dark.png">Mac Desktop (dark)</a>
 
 <a href="/static/balls-of-steel/Balls-of-Steel-Desktop-mac-light.png">Mac Desktop (light)</a>
