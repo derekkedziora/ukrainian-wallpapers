@@ -9,5 +9,3 @@ Our country, homes and very lives are under attack! Please help support the Ukra
 
 Pick a wallpaper you like and please support a [Ukrainian charity](/donate) after you download it. 
 
-
-{% include gallery.html %}
