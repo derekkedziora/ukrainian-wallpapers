@@ -1,9 +1,12 @@
 ---
 title: Donate
+nav: donate-nav
 layout: default
 description: Places where you can donate to the Ukrainian Army and those in need
 permalink: /donate
 ---
+
+<nav><a href="/">Home</a></nav>
 
 Here’s how you can support either the Ukrainian Army or humanitarian efforts for those forced to flee from the war. 
 
