@@ -1,5 +1,6 @@
 ---
 title: I Need Ammunition
+description: Stand with Ukraine wallpapers, support the Ukrainan People, support the defenders of Ukraine! 💪🌻🇺🇦 
 wallpaper-page-nav: true
 layout: default
 permalink: /need-ammunition

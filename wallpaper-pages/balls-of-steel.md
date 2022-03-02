@@ -1,7 +1,7 @@
 ---
 title: Balls of Steel
 wallpaper-page-nav: true
-description: "Down the Ukrainian wallpaper “Balls of Steel” and support the Ukrainian Army and people in need"   
+description: Stand with Ukraine wallpapers, support the Ukrainan People, support the defenders of Ukraine! 💪🌻🇺🇦 
 layout: default
 permalink: /balls-of-steel
 ---
