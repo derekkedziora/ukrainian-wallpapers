@@ -15,14 +15,14 @@ permalink: /need-ammunition
 
 <a href="/static/need-ammunition/I-Need-Ammunition-Desktop-pc-light.png">PC Desktop (light)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-mobile-dark.png">Mobile (dark)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Mobile-dark.png">Mobile (dark)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-mobile-light.png">Mobile (light)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Mobile-light.png">Mobile (light)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-zoom-mac-dark.png">Zoom Mac (dark)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-zoom-mac-light.png">Zoom Mac (light)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-zoom-pc-dark.png">Zoom PC (dark)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/need-ammunition/I-Need-Ammunition-zoom-pc-light.png">Zoom PC (light)</a>
+<a href="/static/need-ammunition/I-Need-Ammunition-Zoom-pc-light.png">Zoom PC (light)</a>

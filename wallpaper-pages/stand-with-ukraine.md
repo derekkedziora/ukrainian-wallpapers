@@ -15,14 +15,14 @@ permalink: /stand-with-ukraine
 
 <a href="/static/stand-with-ukraine/Stand-with-Ukraine-Desktop-pc-light.png">PC Desktop (light)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-mobile-dark.png">Mobile (dark)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Mobile-dark.png">Mobile (dark)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-mobile-light.png">Mobile (light)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Mobile-light.png">Mobile (light)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-zoom-mac-dark.png">Zoom Mac (dark)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-zoom-mac-light.png">Zoom Mac (light)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-zoom-pc-dark.png">Zoom PC (dark)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/stand-with-ukraine/Stand-with-Ukraine-zoom-pc-light.png">Zoom PC (light)</a>
+<a href="/static/stand-with-ukraine/Stand-with-Ukraine-Zoom-pc-light.png">Zoom PC (light)</a>

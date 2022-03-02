@@ -15,14 +15,14 @@ permalink: /russian-warship
 
 <a href="/static/russian-warship/Russian-Warship-Desktop-pc-light.png">PC Desktop (light)</a>
 
-<a href="/static/russian-warship/Russian-Warship-mobile-dark.png">Mobile (dark)</a>
+<a href="/static/russian-warship/Russian-Warship-Mobile-dark.png">Mobile (dark)</a>
 
-<a href="/static/russian-warship/Russian-Warship-mobile-light.png">Mobile (light)</a>
+<a href="/static/russian-warship/Russian-Warship-Mobile-light.png">Mobile (light)</a>
 
-<a href="/static/russian-warship/Russian-Warship-zoom-mac-dark.png">Zoom Mac (dark)</a>
+<a href="/static/russian-warship/Russian-Warship-Zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/russian-warship/Russian-Warship-zoom-mac-light.png">Zoom Mac (light)</a>
+<a href="/static/russian-warship/Russian-Warship-Zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/russian-warship/Russian-Warship-zoom-pc-dark.png">Zoom PC (dark)</a>
+<a href="/static/russian-warship/Russian-Warship-Zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/russian-warship/Russian-Warship-zoom-pc-light.png">Zoom PC (light)</a>
+<a href="/static/russian-warship/Russian-Warship-Zoom-pc-light.png">Zoom PC (light)</a>
