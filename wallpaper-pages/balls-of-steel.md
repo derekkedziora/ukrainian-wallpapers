@@ -1,7 +1,7 @@
 ---
 title: Balls of Steel
 wallpaper-page-nav: true
-description: Stand with Ukraine wallpapers, support the Ukrainan People, support the defenders of Ukraine! 💪🌻🇺🇦 
+description: Download, donate and share Ukrainian wallpapers. Stand with Ukraine, support the Ukrainan People! 💪🌻🇺🇦 
 layout: default
 permalink: /balls-of-steel
 ---
