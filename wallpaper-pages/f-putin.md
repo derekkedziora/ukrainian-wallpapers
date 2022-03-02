@@ -19,10 +19,10 @@ permalink: /f-putin
 
 <a href="/static/f-putin/F**k-Putin-mobile-light.png">Mobile (light)</a>
 
-<a href="/static/f-putin/F**k-Putin-zoom-mac-dark.png">Zoom Mac (dark)</a>
+<a href="/static/f-putin/F**k-Putin-Zoom-mac-dark.png">Zoom Mac (dark)</a>
 
-<a href="/static/f-putin/F**k-Putin-zoom-mac-light.png">Zoom Mac (light)</a>
+<a href="/static/f-putin/F**k-Putin-Zoom-mac-light.png">Zoom Mac (light)</a>
 
-<a href="/static/f-putin/F**k-Putin-zoom-pc-dark.png">Zoom PC (dark)</a>
+<a href="/static/f-putin/F**k-Putin-Zoom-pc-dark.png">Zoom PC (dark)</a>
 
-<a href="/static/f-putin/F**k-Putin-zoom-pc-light.png">Zoom PC (light)</a>
+<a href="/static/f-putin/F**k-Putin-Zoom-pc-light.png">Zoom PC (light)</a>
