@@ -9,3 +9,4 @@ Our country, homes and very lives are under attack! Please help support the Ukra
 
 Pick a wallpaper you like and please support a [Ukrainian charity](/donate) after you download it. 
 
+Like this font? It’s also made in Ukraine, and you can download it from [Google Fonts](https://fonts.google.com/specimen/Arsenal).
