@@ -12,7 +12,7 @@ Here’s how you can support either the Ukrainian Army or humanitarian efforts f
 
 ## The Ukrainian Army 
 
-Directly via the <a hrer="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">National Bank of Ukraine</a>, takes credit cards 
+Directly via the <a href="https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi">National Bank of Ukraine</a>, takes credit cards 
 
 <a href="https://savelife.in.ua/en/donate/">Come back alive</a>, donate via bank transfer
 
