@@ -9,4 +9,4 @@ Our country, homes and very lives are under attack! Please help support the Ukra
 
 Pick a wallpaper you like and please support a [Ukrainian charity](/donate) after you download it. 
 
-Like this font? It’s also made in Ukraine, and you can download it from [Google Fonts](https://fonts.google.com/specimen/Arsenal).
+Like this font? It’s called Kyiv*Type and made in Ukraine. It's [freely available](https://www.behance.net/gallery/90690285/KyivType-variable-superfamily).
