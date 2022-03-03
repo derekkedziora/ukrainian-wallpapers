@@ -1,14 +1,14 @@
 :root {
 	--background-color: white;
 	--text-color:  hsl(0, 0%, 10%);
-	--link-color: hsl(240, 1%, 35%);
+	--link-color: hsl(0, 0%, 10%);
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
 		--background-color: hsl(200, 3%, 12%);
 		--text-color: hsl(0, 0%, 85%);
-		--link-color: hsl(193, 85%, 50%);
+		--link-color: hsl(0, 0%, 85%);
 	}
 }
 
