@@ -19,7 +19,7 @@ Here’s how you can support either the Ukrainian Army or humanitarian efforts f
 
 [Army SOS](https://armysos.com.ua/en/help-the-army)
 
-[Armor in King](https://uaccusa.org/supportukraine)
+[Armor in Kind](https://uaccusa.org/supportukraine)
 
 
 ## Humanitarian Support
