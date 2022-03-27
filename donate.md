@@ -19,12 +19,12 @@ Here’s how you can support either the Ukrainian Army or humanitarian efforts f
 
 [Army SOS](https://armysos.com.ua/en/help-the-army)
 
+[Armor in King](https://uaccusa.org/supportukraine)
+
 
 ## Humanitarian Support
 
 [Saint Javelin](http://saintjavelin.com)
-
-[The Red Cross](https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1)
 
 [Razom for Ukraine](https://razomforukraine.org)
 
@@ -40,4 +40,4 @@ Here’s how you can support either the Ukrainian Army or humanitarian efforts f
 
 [Support Ukraine Now](http://supportukrainenow.org/)
 
-Enjoy the wallpapers 🌻
+Enjoy the wallpapers 🌻 🚜 🇺🇦
